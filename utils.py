@@ -24,7 +24,11 @@ def visualize_pca(X_projected, y, dataset_name, class_names, savepath, is_iris):
     # extract our components to plot
     x1, x2 = X_projected[:, 0], X_projected[:, 1]
 
-    plt.figure(figsize = (8, 8))
+    plt.figure(figsize = (10, 10))
+
+    # set background color to lavender
+    ax = plt.axes()
+    ax.set_facecolor("lavender")
 
     if is_iris:
         sc = plt.scatter(x1, x2, c = y, cmap = plt.cm.get_cmap('viridis', 3))
