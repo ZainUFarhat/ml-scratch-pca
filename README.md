@@ -37,7 +37,7 @@ For each dataset I will share the train feature shapes before and after transfor
 
 - See visualizations below:
 
- ![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/bc/bc_pca.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/bc/bc_pca.png?raw=true)
 
 **2.** Iris Dataset:
 
@@ -48,7 +48,7 @@ For each dataset I will share the train feature shapes before and after transfor
 
 - See visualizations below:
 
- ![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/iris/iris_pca.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/iris/iris_pca.png?raw=true)
 
 **2.** Diabetes Dataset:
 
@@ -59,4 +59,4 @@ For each dataset I will share the train feature shapes before and after transfor
 
 - See visualizations below:
 
- ![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/db/db_pca.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/db/db_pca.png?raw=true)
