@@ -35,7 +35,7 @@ For each dataset I will share the train feature shapes before and after transfor
 - After Transformation:
      - Shape = (569, 2)
 
-- See visualizations below:
+- See visualization below:
 
 ![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/bc/bc_pca.png?raw=true)
 
@@ -46,7 +46,7 @@ For each dataset I will share the train feature shapes before and after transfor
 - After Transformation:
      - Shape = (150, 2)
 
-- See visualizations below:
+- See visualization below:
 
 ![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/iris/iris_pca.png?raw=true)
 
@@ -57,6 +57,6 @@ For each dataset I will share the train feature shapes before and after transfor
 - After Transformation:
      - Shape = (442, 2)
 
-- See visualizations below:
+- See visualization below:
 
 ![alt text](https://github.com/ZainUFarhat/ml-scratch-pca/blob/main/plots/db/db_pca.png?raw=true)
